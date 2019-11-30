@@ -27,7 +27,7 @@
   "author": "Colin Skow",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/colinskow/pouchdb-live-find/issues"
+    "url": "https://github.com/netadvanced/pouchdb-live-find/issues"
   },
   "homepage": "https://github.com/colinskow/pouchdb-live-find",
   "dependencies": {
