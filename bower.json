@@ -1,13 +1,13 @@
 {
   "name": "pouchdb-live-find",
   "description": "Live PouchDB queries that update automatically as changes come in!",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "author": "Colin Skow",
   "license": "MIT",
-  "homepage": "https://github.com/colinskow/pouchdb-live-find",
+  "homepage": "https://github.com/netadvanced/pouchdb-live-find",
   "repository": {
     "type": "git",
-    "url": "git://github.com/colinskow/pouchdb-live-find.git"
+    "url": "git://github.com/netadvanced/pouchdb-live-find.git"
   },
   "main": ["dist/pouchdb.live-find.js"],
   "keywords": [
@@ -25,8 +25,8 @@
     "real-time"
   ],
   "dependencies": {
-    "pouchdb": "^6.2.0",
-    "pouchdb-find": "^6.2.0"
+    "pouchdb": "^7.1.1",
+    "pouchdb-find": "^7.1.1"
   },
   "devDependencies": {}
 }
